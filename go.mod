@@ -1,3 +1,3 @@
 module github.com/vsm0/adt
 
-go 1.22.1
+go 1.19
